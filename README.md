@@ -56,8 +56,8 @@ Este enfoque reproduce escenarios reales de pentesting en entornos profesionales
 report/
 ├── 01_scope.md
 ├── 02_methodology.md
-├── 03_standards_and_frameworks.md
-├── 04_executive_summary.md
+├── 03_standards_and_framework.md
+├── 04_executive-summary.md
 ├── findings/
 │   ├── 01_bruteforce.md
 │   ├── 02_command_injection.md
